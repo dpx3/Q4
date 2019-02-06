@@ -1,0 +1,30 @@
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServe.exe.config
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServe.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServe.pdb
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\MainWindow.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\App.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe_MarkupCompile.cache
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe_MarkupCompile.lref
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\MainWindow.baml
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.g.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.pdb
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServe.csprojResolveAssemblyReference.cache
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Debug\QuickServe.exe.config
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.exe
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.pdb
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Debug\QuickServe.exe
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Debug\QuickServe.pdb
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.csprojResolveAssemblyReference.cache
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\MainWindow.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\App.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe_MarkupCompile.cache
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe_MarkupCompile.lref
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\MainWindow.baml
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.g.resources
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.Properties.Resources.resources
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Debug\QuickServe.csproj.GenerateResource.Cache

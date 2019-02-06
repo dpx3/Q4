@@ -1,0 +1,15 @@
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServer.exe.config
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServer.exe
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Debug\QuickServer.pdb
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\MainWindow.g.cs
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\App.g.cs
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer_MarkupCompile.cache
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer_MarkupCompile.lref
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\MainWindow.baml
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.g.resources
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.Properties.Resources.resources
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.csproj.GenerateResource.Cache
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.exe
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.pdb
+c:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Debug\QuickServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Release\QuickServe.exe.config
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Release\QuickServe.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\bin\Release\QuickServe.pdb
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\MainWindow.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\App.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe_MarkupCompile.cache
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe_MarkupCompile.lref
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\MainWindow.baml
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.g.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.pdb
