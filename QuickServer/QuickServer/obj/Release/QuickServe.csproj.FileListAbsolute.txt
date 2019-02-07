@@ -12,3 +12,17 @@ C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\
 C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.csproj.GenerateResource.Cache
 C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.exe
 C:\Users\Sami\Documents\Visual Studio 2015\Projects\QuickServer\QuickServer\obj\Release\QuickServe.pdb
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Release\QuickServe.exe.config
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe.exe
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe.pdb
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Release\QuickServe.exe
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\bin\Release\QuickServe.pdb
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\MainWindow.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\App.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe_MarkupCompile.cache
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe_MarkupCompile.lref
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\MainWindow.baml
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe.g.resources
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe.Properties.Resources.resources
+D:\studies\Sen Sem I\Design Patterns\Project\Q4\QuickServer\QuickServer\obj\Release\QuickServe.csproj.GenerateResource.Cache

@@ -17,10 +17,13 @@ namespace QuickServe
 
         protected override void handleGETRequest(HttpProcessor p)
         {
-            Stream fs = File.Open("q.ico", FileMode.Open);
+            Stream fs = File.Open("q.ico", FileMode.Open, FileAccess.Read);
             p.writeSuccess("image/x-icon");
             fs.CopyTo(p.outputStream.BaseStream);
+            fs.Close();
             p.outputStream.BaseStream.Flush();
+            p.outputStream.Flush();
+            p.outputStream = null;
         }
 
         protected override void handlePOSTRequest(HttpProcessor p, StreamReader inputData)

@@ -16,6 +16,7 @@ namespace QuickServe
             Console.WriteLine("Sent " + ((StringResponderData)responderData).String.String);
             p.outputStream.Write(((StringResponderData)responderData).String.String);
             p.outputStream.Flush();
+            p.outputStream = null;
         }
 
         protected override void handlePOSTRequest(HttpProcessor p, StreamReader inputData)

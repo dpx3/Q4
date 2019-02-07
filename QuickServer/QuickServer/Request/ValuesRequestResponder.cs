@@ -28,6 +28,7 @@ namespace QuickServe
             p.writeSuccess();
             p.outputStream.Write(Parse(((ValuesResponderData)responderData).Parameters.ToList()));
             p.outputStream.Flush();
+            p.outputStream = null;
         }
 
         protected override void handlePOSTRequest(HttpProcessor p, StreamReader inputData)
