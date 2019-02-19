@@ -16,6 +16,7 @@ namespace QuickServe
         private Stream inputStream;
         public StreamWriter outputStream;
         public StreamReader postStream;
+        public RequestServer requestServer;
 
         public string http_method;
         public string http_url;
@@ -42,13 +43,17 @@ namespace QuickServe
                 if (next_char == -1) { Thread.Sleep(1); continue; };
                 data += Convert.ToChar(next_char);
             }
+
+            Console.WriteLine("| Stream read line: " + data);
             return data;
         }
 
         public void process()
         {
+            Console.WriteLine("Getting Stream...");
             inputStream = new BufferedStream(socket.GetStream());
             outputStream = new StreamWriter(new BufferedStream(socket.GetStream()));
+            Console.WriteLine("Got Stream.");
             try
             {
                 parseRequest();
@@ -58,14 +63,19 @@ namespace QuickServe
                 {
                     handlePOSTRequest();
                 }
-
-
+                
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine("Req not recieved");
+                writeFailure();
             }
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.ToString());
                 writeFailure();
             }
+            requestServer.handleRequest(this);
         }
 
         public void parseRequest()

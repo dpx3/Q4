@@ -32,16 +32,26 @@ namespace QuickServe
                 {
                     listener.Start();
                     Thread.Sleep(200);
-                    Console.WriteLine("Listening");
+                    Console.WriteLine("\n----- Listening " + Thread.CurrentThread.ManagedThreadId + "\n");
                     NotifyServerStarted();
                     TcpClient client = listener.AcceptTcpClient();
+                    //byte[] bytes = new byte[1024];
+                    //client.GetStream().Read(bytes, 0, 1024);
+                    Thread.Sleep(20);
+                    Console.WriteLine("\n----- Accepted: " + client.Client.RemoteEndPoint + "\n");
                     HttpProcessor processor = new HttpProcessor(client);
-                    processor.process();
                     requestIdentifier = processor;
-                    Console.WriteLine(requestIdentifier.outputStream == null);
-                    Thread thread = new Thread(new ThreadStart(handleRequest));
+                    processor.requestServer = this;
+                    Thread thread = new Thread(new ThreadStart(processor.process));
                     thread.Start();
-                    Thread.Sleep(1);
+                    //if (processor.process())
+                    //{
+                    //    Console.WriteLine(processor.outputStream == null);
+                    //    Thread thread = new Thread(new ThreadStart(handleRequest));
+                    //    thread.Start();
+                    //}
+                    Thread.Sleep(10);
+                    Console.WriteLine("\n----- Responded\n");
                 } catch (SocketException se)
                 {
                     Thread.Sleep(300);
@@ -51,13 +61,13 @@ namespace QuickServe
             }
         }
 
-        public void handleRequest()
+        public void handleRequest(HttpProcessor processor)
         {
             bool handled = false;
             Console.WriteLine("Call to handle request.");
             foreach (Responder responder in control.GetResponders())
             {
-                if (responder.requestResponder.handleRequest(requestIdentifier))
+                if (responder.requestResponder.handleRequest(processor))
                 {
                     Console.WriteLine("Request handled by " + responder.GetHashCode());
                     handled = true;
@@ -69,7 +79,7 @@ namespace QuickServe
             {
                 foreach (Responder responder in failsafeHandlers)
                 {
-                    if (responder.requestResponder.handleRequest(requestIdentifier))
+                    if (responder.requestResponder.handleRequest(processor))
                     {
                         Console.WriteLine("Request handled by failsafe " + responder.GetHashCode());
                         break;
